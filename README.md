@@ -37,6 +37,19 @@ SCREENSHOTS
 <img width="800" src="https://user-images.githubusercontent.com/39688690/72540921-f7c74a80-38c4-11ea-97af-b88d33a8971f.png">
 </div> 
 
+<div>
+<img width="800" src="https://user-images.githubusercontent.com/39688690/72540926-fa29a480-38c4-11ea-8be8-eb5b1de1bb3d.png">
+</div> 
+
+<div>
+<img width="800" src="https://user-images.githubusercontent.com/39688690/72540932-fbf36800-38c4-11ea-9e75-2e1abe3d4143.png">
+</div> 
+
+<div>
+<img width="800" src="https://user-images.githubusercontent.com/39688690/72540937-fe55c200-38c4-11ea-9408-aeab36d9fb14.png">
+</div> 
+
+
 
 Result
 ------
