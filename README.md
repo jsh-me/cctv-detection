@@ -5,7 +5,6 @@
 * 우리는 이 점을 개선하고자, Yolo를 이용하여 범인을 추적하고, 얼굴을 뽑아내 3D face로 만들어 더 쉽게 몽타주를 만들 수 있도록 개발하였습니다.
 
 Reference
-
 ----
 
 1. Deep3DFaceReconstruction (microsoft)
@@ -21,7 +20,6 @@ https://github.com/idealo/image-super-resolution
 
 
 Technology
-
 ----
 
 * Yolo v3
@@ -31,7 +29,6 @@ Technology
 
 
 Process
-
 ----
 
 1. Yolo 사용을 위한 가상환경 설정.
@@ -43,7 +40,6 @@ Process
 
 
 Result
-
 ------
 
 빅데이터 청년인재 대상 수상
