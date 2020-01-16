@@ -34,6 +34,8 @@ Process
 
 PPT SCREENSHOTS
 --------
+sorry : The output result cannot be displayed due to the right of likeness.
+
 <div>
 <img width="800" src="https://user-images.githubusercontent.com/39688690/72540921-f7c74a80-38c4-11ea-97af-b88d33a8971f.png">
 </div> 
@@ -52,10 +54,5 @@ Result
 
 2019년 빅데이터 청년인재 대상 수상
 
-
-
-
-
-sorry :-( The output result cannot be displayed due to the right of likeness.
 
 
