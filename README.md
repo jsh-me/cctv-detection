@@ -17,26 +17,25 @@ https://faces.dmi.unibas.ch/bfm/
 
 https://github.com/idealo/image-super-resolution
 
-
-
-Technology
-----
-
-* Yolo v3
-* SRGAN
-* 3D Face Reconstruction
-
+3. Colorzization
+https://github.com/jantic/DeOldify
 
 
 Process
 ----
 
 1. Yolo 사용을 위한 가상환경 설정.
-2. 정확도가 100%인 사람의 위치를 좌표값으로 return.
-3. 해당 좌표값을 가져오면 전신사진이 저장이 되는데, 그 중 얼굴을 따로 추출. 
-4. 추출한 얼굴의 해상도를 올림.
-5. 3d face 제작.
+2. 흑백의 영상에 컬러화작업
+3. 정확도가 100%인 사람의 위치를 좌표값으로 return.
+4. 해당 좌표값을 가져오면 전신사진이 저장이 되는데, 그 중 얼굴을 따로 추출. 
+5. 추출한 얼굴의 해상도를 올림.
+6. 3d face 제작
 
+SCREENSHOTS
+--------
+<div>
+<img width="800" src="https://user-images.githubusercontent.com/39688690/72540921-f7c74a80-38c4-11ea-97af-b88d33a8971f.png">
+</div> 
 
 
 Result
