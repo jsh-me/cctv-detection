@@ -45,13 +45,14 @@ SCREENSHOTS
 <img width="800" src="https://user-images.githubusercontent.com/39688690/72540932-fbf36800-38c4-11ea-9e75-2e1abe3d4143.png">
 </div> 
 
-<div>
-<img width="800" src="https://user-images.githubusercontent.com/39688690/72540937-fe55c200-38c4-11ea-9408-aeab36d9fb14.png">
-</div> 
-
-
 
 Result
 ------
 
-빅데이터 청년인재 대상 수상
+2019년 빅데이터 청년인재 대상 수상
+
+
+
+
+
+
