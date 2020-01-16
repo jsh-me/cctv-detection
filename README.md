@@ -7,18 +7,18 @@
 Reference
 ----
 
-1. Deep3DFaceReconstruction (microsoft) [here!] [model]
+1. Deep3DFaceReconstruction (microsoft) github: [here], weights : [model]
 
-[here!]: https://github.com/microsoft/Deep3DFaceReconstruction
+[here]: https://github.com/microsoft/Deep3DFaceReconstruction
 
 [model]:https://faces.dmi.unibas.ch/bfm/
 
-2. Image Super Resolution [here!]
+2. Image Super Resolution github: [here!]
 
 [here!]:https://github.com/idealo/image-super-resolution
 
-3. Colorzization [here!]
-[here!]:https://github.com/jantic/DeOldify
+3. Colorzization github: [here!!]
+[here!!]:https://github.com/jantic/DeOldify
 
 
 Process
