@@ -7,18 +7,18 @@
 Reference
 ----
 
-1. Deep3DFaceReconstruction (microsoft)
+1. Deep3DFaceReconstruction (microsoft) [here!] [model]
 
-https://github.com/microsoft/Deep3DFaceReconstruction
+[here!]: https://github.com/microsoft/Deep3DFaceReconstruction
 
-https://faces.dmi.unibas.ch/bfm/
+[model]:https://faces.dmi.unibas.ch/bfm/
 
-2. Image Super Resolution (SR GAN)
+2. Image Super Resolution [here!]
 
-https://github.com/idealo/image-super-resolution
+[here!]:https://github.com/idealo/image-super-resolution
 
-3. Colorzization
-https://github.com/jantic/DeOldify
+3. Colorzization [here!]
+[here!]:https://github.com/jantic/DeOldify
 
 
 Process
