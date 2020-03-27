@@ -44,12 +44,14 @@ sorry : The output result cannot be displayed due to the right of likeness.
 <img width="800" src="https://user-images.githubusercontent.com/39688690/72540926-fa29a480-38c4-11ea-8be8-eb5b1de1bb3d.png">
 </div> 
 
-
-
+</br>
+</br>
 Result
 ------
 
 2019년 빅데이터 청년인재 대상
 
+</br>
+</br>
 
 
