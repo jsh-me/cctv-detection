@@ -27,14 +27,39 @@ Reference
 Process
 ----
 
-1. Yolo 사용을 위한 가상환경 설정.
+1. Yolo 사용을 위한 가상환경 설정
 2. 흑백의 영상에 컬러화작업
-3. 정확도가 100%인 사람의 위치를 좌표값으로 return.
-4. 해당 좌표값을 가져오면 전신사진이 저장이 되는데, 그 중 얼굴을 따로 추출. 
-5. 추출한 얼굴의 해상도를 올림.
+3. 정확도가 100%인 사람의 위치를 좌표값을 저장
+4. 해당 좌표값을 바탕으로 얼굴 추출
+5. 추출한 얼굴의 해상도 향상
 6. 3d face 제작
 
-PPT SCREENSHOTS
+
+CCTV-No1.ipynb
+----
+> 프로젝트 파일은 Colab으로 실행됨
+
+0. 저장폴더 생성
+- 로컬 폴더와 Google Drive 연동
+- 추후에 만들어 질 파일들을 담을 폴더를 생성
+
+1. Yolo 가상환경 구축
+- yolo 환경변수 세팅
+- Face API 
+- Yolo 출력, 업로드, 다운로드 함수 구성
+- 동영상 내 사람 객체 추출 함수 구성
+- Yolo 영상 및 좌표를 Google Drive 에 저장
+
+
+2. Log를 활용한 추출
+- 동영상 내 정확도가 100% 인 사람 객체의 프레임을 txt로 저장
+- 사람 객체에서 얼굴만을 따로 추출하여 face 폴더에 저장
+
+3. Face Detection and 3D Reconstruction
+- Microsoft 3D Reconstruction Model weight 이용
+
+
+PRESENTATION SCREENSHOTS
 --------
 sorry : The output result cannot be displayed due to the right of likeness.
 
