@@ -6,7 +6,7 @@ GOAL
 Reference
 ----
 
-1. Deep3DFaceReconstruction (microsoft) github: [here], weights : [model]
+1. Deep3DFaceReconstruction (microsoft) github: [Microsofr Github], weights : [model]
 
 [here]: https://github.com/microsoft/Deep3DFaceReconstruction
 
