@@ -39,11 +39,11 @@ CCTV-No1.ipynb
 ----
 > 프로젝트 파일은 Colab으로 실행됨
 
-0. 저장폴더 생성
+#### 0. 저장폴더 생성
 - 로컬 폴더와 Google Drive 연동
 - 추후에 만들어 질 파일들을 담을 폴더를 생성
 
-1. Yolo 가상환경 구축
+#### 1. Yolo 가상환경 구축
 - yolo 환경변수 세팅
 - Face API 
 - Yolo 출력, 업로드, 다운로드 함수 구성
@@ -51,11 +51,11 @@ CCTV-No1.ipynb
 - Yolo 영상 및 좌표를 Google Drive 에 저장
 
 
-2. Log를 활용한 추출
+#### 2. Log를 활용한 추출
 - 동영상 내 정확도가 100% 인 사람 객체의 프레임을 txt로 저장
 - 사람 객체에서 얼굴만을 따로 추출하여 face 폴더에 저장
 
-3. Face Detection and 3D Reconstruction
+#### 3. Face Detection and 3D Reconstruction
 - Microsoft 3D Reconstruction Model weight 이용
 
 
