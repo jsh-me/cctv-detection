@@ -1,6 +1,3 @@
-## Detection of CCTV Using Deep Learning
-
-
 GOAL
 -----
 * 이 프로젝트는 CCTV 영상을 활용해 범인 검거를 보다 쉽게 검출할 수 있는 것을 목표로 합니다.
