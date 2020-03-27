@@ -49,7 +49,7 @@ sorry : The output result cannot be displayed due to the right of likeness.
 Result
 ------
 
-2019년 빅데이터 청년인재 대상 수상
+2019년 빅데이터 청년인재 대상
 
 
 
