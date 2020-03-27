@@ -58,9 +58,8 @@ CCTV-No1.ipynb
 #### 3. Face Detection and 3D Reconstruction
 - Microsoft 3D Reconstruction Model weight 이용
 
-
-
-
+</br>
+</br>
 PRESENTATION SCREENSHOTS
 --------
 sorry : The output result cannot be displayed due to the right of likeness.
