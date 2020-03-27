@@ -12,13 +12,13 @@ Reference
 
 [model]:https://faces.dmi.unibas.ch/bfm/
 
-2. Image Super Resolution github: [here!]
+2. Image Super Resolution github: [ISR]
 
-[here!]:https://github.com/idealo/image-super-resolution
+[ISR]:https://github.com/idealo/image-super-resolution
 
-3. Colorzization github: [here!!]
+3. Colorization github: [Colorization Github]
 
-[here!!]:https://github.com/jantic/DeOldify
+[Colorization Github]:https://github.com/jantic/DeOldify
 
 
 Process
